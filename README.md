@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adit-BITS-P
+- 👋 Hi, I’m @Adit
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
